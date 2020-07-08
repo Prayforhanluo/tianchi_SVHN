@@ -2,6 +2,8 @@
 
 第一次接触CV
 
+https://tianchi.aliyun.com/competition/entrance/531795/introduction
+
 just for fun
 
 rank 71 / 1796
