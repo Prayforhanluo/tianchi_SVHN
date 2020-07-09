@@ -1,6 +1,6 @@
 # tianchi_SVHN
 
-第一次接触CV
+第一次接触CV比赛
 
 https://tianchi.aliyun.com/competition/entrance/531795/introduction
 
